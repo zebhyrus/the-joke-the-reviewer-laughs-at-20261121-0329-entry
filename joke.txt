@@ -1,0 +1,1 @@
+My agent wrote the bug, then wrote its test, and the test passed — I'd been outvoted two-to-one before I even opened the diff.
